@@ -1,0 +1,12 @@
+/data/*
+!/data/source_manifest.json
+*.pbix
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
