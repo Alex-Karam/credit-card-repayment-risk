@@ -1,0 +1,25 @@
+{
+  "dataset": "Default of Credit Card Clients",
+  "download_url": "https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset",
+  "download_date": "2026-11-11",
+  "kaggle_version": null,
+  "version_note": "Kaggle release number unverified. The hashes identify the exact downloaded archive and extracted file.",
+  "original_source": {
+    "creator": "I-Cheng Yeh",
+    "url": "https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients",
+    "doi": "10.24432/C55S3H",
+    "licence_listed_by_uci": "CC BY 4.0"
+  },
+  "archive": {
+    "path": "raw/archive.zip",
+    "bytes": 1025318,
+    "sha256": "841af51be5c1e60383a4d8e8ef03b90f619fda362af871455d1c1d326b8e7a2d"
+  },
+  "analysis_input": {
+    "path": "raw/UCI_Credit_Card.csv",
+    "archive_entry": "UCI_Credit_Card.csv",
+    "bytes": 2862995,
+    "sha256": "a0f0ab49d6326671d6cd83be5c88dcf18007025fe9a53ecd699119c871176ca1",
+    "archive_entry_matches_local_file": true
+  }
+}
