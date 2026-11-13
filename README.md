@@ -2,7 +2,7 @@
 
 A guided portfolio study of next-month credit card default in a historical Taiwanese cohort. I used MySQL to audit and reshape repayment history, Python to evaluate a logistic regression model, Power BI to report the training and test results, and Excel to reconcile the overall training default rate.
 
-[Two-page Power BI report (PDF)](Credit%20Card%20Repayment%20Risk.pdf)
+[Portfolio case study](https://alex-karam.github.io/projects/credit-card-repayment-risk/index.html) · [Two-page Power BI report (PDF)](Credit%20Card%20Repayment%20Risk.pdf)
 
 ## Findings
 
